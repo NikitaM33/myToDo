@@ -1,0 +1,9 @@
+.close {
+    padding-left: 1rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.close:hover {
+    color: red;
+}
